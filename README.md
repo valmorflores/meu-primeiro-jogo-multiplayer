@@ -22,7 +22,7 @@ Este é um projeto simples e pode ser desenvolvido em qualquer lugar, mas ultima
 6. Faça o `commit` de suas alterações, envie para seu `fork` e abra um Pull Request. Para o Gitpod ter acesso de escrita no seu repositório, você deve habilitar isto nas preferências do `Access Control`.
 
 
-## Inicantes em node (como instalar e executar?)
+## Iniciantes em node (como instalar e executar?)
 1. Faça o download ou git clone em uma pasta (claro né tio)
 2. Vá até a pasta e rode node install
 3. a seguir rode (node server.js)
@@ -31,7 +31,7 @@ O resultado deverá ser algo como:
 > Starting new game
 > Server listening on port: 3000
 4. Vá para o browse e divirta-se acessando localhost:3000
-5. Para administrar o game acesse localhost:3000/
+5. Para administrar o game acesse o endereço a seguir (que só você, eu e Deus deveremos conhecer) http://localhost:3000/a31ecc0596d72f84e5ee403ddcacb3dea94ce0803fc9e6dc2eca1fbabae49a3e3a31ecc0596d72f84e5ee40d0cacb3dea94ce0803fc9e6dc2ecfdfdbabae49a3e3
 
 ## Autor
 
