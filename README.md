@@ -21,6 +21,18 @@ Este é um projeto simples e pode ser desenvolvido em qualquer lugar, mas ultima
 5. Você pode escrever todo o código do zero para acompanhar os **[vídeos tutoriais da playlist](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL)**, mas também você copiar a pasta de um outro experimento e fazer as suas modificações.
 6. Faça o `commit` de suas alterações, envie para seu `fork` e abra um Pull Request. Para o Gitpod ter acesso de escrita no seu repositório, você deve habilitar isto nas preferências do `Access Control`.
 
+
+## Inicantes em node (como instalar e executar?)
+1. Faça o download ou git clone em uma pasta (claro né tio)
+2. Vá até a pasta e rode node install
+3. a seguir rode (node server.js)
+O resultado deverá ser algo como: 
+> Script started
+> Starting new game
+> Server listening on port: 3000
+4. Vá para o browse e divirta-se acessando localhost:3000
+5. Para administrar o game acesse localhost:3000/
+
 ## Autor
 
 | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) |
