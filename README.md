@@ -37,3 +37,7 @@ O resultado deverá ser algo como:
 
 | [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) |
 | :---: |
+
+## Noob
+| [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@valmorflores</sub>](https://github.com/valmorflores) |
+| :---: |
