@@ -24,8 +24,8 @@ Este é um projeto simples e pode ser desenvolvido em qualquer lugar, mas ultima
 
 ## Iniciantes em node (como instalar e executar?)
 1. Faça o download ou git clone em uma pasta (claro né tio)
-2. Vá até a pasta e rode: *npm install
-3. a seguir rode *node server.js
+2. Vá até a pasta e rode: **npm install
+3. a seguir rode **node server.js
 O resultado deverá ser algo como: 
 - Script started
 - Starting new game
